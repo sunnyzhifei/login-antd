@@ -1,0 +1,22 @@
+
+html,body {
+  background-image: url(./assets/wow2.jpg);
+  background-size:100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+div {
+  text-align: 'center';
+  margin-left: 22%; 
+  margin-right: 22%;
+  /* background: url(./assets/yay.jpg) no-repeat center 0; */
+}
+
+
+/* div, :global(#root) {
+  text-align: 'center';
+  margin-left: 22%; 
+  margin-right: 22%;
+  /* background: url(./assets/yay.jpg) no-repeat center 0; */
+/* } */
